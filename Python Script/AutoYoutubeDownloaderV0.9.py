@@ -12,7 +12,6 @@ def progress_check(stream, chunk, bytes_remain):
     # print(progress_amount)
     return progress_amount
 
-
 def on_complete(stream, file_path):
     window['-DOWNLOADPROGRESS-'].update(0)
 
