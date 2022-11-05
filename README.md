@@ -12,5 +12,5 @@ Wish me luck, and come back to see what else I can create in my learning journey
 > 
 >> 12YQAUxHFmJoPr4xdMRmFnbyhFRqKnGhqE
 > 
-> (If you enjoyed the program, or for any resaon would like to tip me :) )
+> (If you enjoyed the program, or for any reason would like to tip me :) )
 
